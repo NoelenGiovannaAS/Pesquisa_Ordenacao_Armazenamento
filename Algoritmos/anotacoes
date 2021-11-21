@@ -1,0 +1,7 @@
+Qual o melhor algoritmo em termos de complexidade? 
+MergeSort/Heap e QuickSort - O(n* log(n))
+
+Pior?
+Bubble sort n^2
+
+É possível ter um melhor? 
